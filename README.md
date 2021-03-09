@@ -1,5 +1,5 @@
 # git-practice
-stash用
+stash練習
 このリポジトリはGit動画講座用です．
 conflict
 rebaseブランチで編集
